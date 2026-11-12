@@ -36,7 +36,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'Hello, Fanfon Julius!',
+          'Hello, User!',
           style: TextStyle(
             fontSize: 28,
             fontWeight: FontWeight.bold,
